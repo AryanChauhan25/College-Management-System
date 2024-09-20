@@ -51,8 +51,8 @@ Add one admin using postman and then you can login into admin panel and add stud
 
 ![a1](https://github.com/user-attachments/assets/254b58c4-726f-4e23-b8ed-d8b4361260fa)
 
-![image](https://drive.google.com/file/d/15eMonWGYwqe1igp1ws20pUxDNPjM1kb6/view?usp=sharing)
+![faculty](https://github.com/user-attachments/assets/23207fe6-1a13-41b1-af08-58e8bcc18a10)
 
-![image](https://drive.google.com/file/d/1uulxFcfhoEK3oudXNTXDI2sQ3dio92Ep/view?usp=sharing)
+![student](https://github.com/user-attachments/assets/267d1d24-aa25-431c-a45c-0429b73fe246)
 
 
