@@ -49,7 +49,7 @@ Add one admin using postman and then you can login into admin panel and add stud
 
 ## Few Screenshots
 
-![image](https://drive.google.com/file/d/15WhMtyh0N4cr19ahJzpd8rEw8eoIim6Q/view?usp=sharing)
+![a1](https://github.com/user-attachments/assets/254b58c4-726f-4e23-b8ed-d8b4361260fa)
 
 ![image](https://drive.google.com/file/d/15eMonWGYwqe1igp1ws20pUxDNPjM1kb6/view?usp=sharing)
 
