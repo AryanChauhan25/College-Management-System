@@ -4,7 +4,11 @@ const app = express();
 const path = require("path")
 connectToMongo();
 const port = 5000 || process.env.PORT;
-var cors = require("cors");
+const cors = require('cors');
+// Allow specific origin(s)
+app.use(cors({
+  origin: 'https://college-management-system-client-gamma.vercel.app/'
+}));
 
 app.use(cors({
   origin: process.env.FRONTEND_API_LINK
