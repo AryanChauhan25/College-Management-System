@@ -43,6 +43,16 @@ Also I have used Cursor code editor to optimize the code.
 
 Add one admin using postman and then you can login into admin panel and add student and faculty from admin section.
 
-1) Add Admin Credentials
+1) Add Admin Credentials (I have added my credentials in the database, so you can directly run the project without adding admin credentials by doing admin login with login id as 806 and password as 0806).
  
 2) Add Admin Details
+
+## Few Screenshots
+
+![image](https://drive.google.com/file/d/15WhMtyh0N4cr19ahJzpd8rEw8eoIim6Q/view?usp=sharing)
+
+![image](https://drive.google.com/file/d/15eMonWGYwqe1igp1ws20pUxDNPjM1kb6/view?usp=sharing)
+
+![image](https://drive.google.com/file/d/1uulxFcfhoEK3oudXNTXDI2sQ3dio92Ep/view?usp=sharing)
+
+
